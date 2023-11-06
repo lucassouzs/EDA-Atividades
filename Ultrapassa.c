@@ -9,7 +9,7 @@ int main() {
         if (numero == 0) {
             break;
         }
-        v[i++] = numero;
+        v[i++] = numero; 
     }
 
     scanf("%d", &limite);
